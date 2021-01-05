@@ -1,0 +1,18 @@
+{
+    "name": "nodejs-bytraversy",
+    "version": "1.0.0",
+    "description": "nodejs crash Traversy course ",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "uuid": "^8.3.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
